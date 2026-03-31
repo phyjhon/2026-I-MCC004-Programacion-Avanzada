@@ -48,7 +48,7 @@ int main() {
     // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,
     int a14 = 1, b14 = 2;
     float c14 = porcentaje(a14, b14);
-    cout << "porcentaje: " << c14 << endl;
+    cout << "Jhon Tellez: " << c14 << endl;
     // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
 
     // 16 Vinatea Chávez Camilo Jorge <camo2391@gmail.com>

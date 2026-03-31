@@ -33,7 +33,7 @@ int suma(int x, int y) {
 
 // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,
 float porcentaje(int a14, int b14) {
-    return ((a14 + b14)/b14)*100;
+    return ((a14 - b14)/b14)*100;
 }
 // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
 
